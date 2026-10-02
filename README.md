@@ -22,7 +22,7 @@ Windows 11과 Samsung Galaxy Android 환경용 Firefox User Agent를 생성하�
 
 ## 실행 방법
 
-저장소를 다운로드하거나 user agent generator.py를 받은 뒤 터미널에서 실행합니다.
+저장소를 다운로드하거나 user agent generator firefox.py 를 받은 뒤 터미널에서 실행합니다.
 
 ```bash
 python user_agent_generator.py
