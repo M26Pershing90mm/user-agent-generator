@@ -15,7 +15,7 @@ GALAXY_MODELS = {
         ("Galaxy S23+","SM-S916B"),
         ("Galaxy S23 Ultra","SM-S918B"),
         ("Galaxy A34 5G","SM-A346B"),
-        ("Galaxy A54 5G", SM-A546B"),
+        ("Galaxy A54 5G","SM-A546B"),
         ("Galaxy Z Flip5","SM-F731B"),
         ("Galaxy Z Fold5","SM-F946B"),
     ],
